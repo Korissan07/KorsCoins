@@ -25,3 +25,4 @@ To stop nginx run `sudo nginx -s stop`
 
 `ngrok http 8080`
 The port doesn't matter, make sure it's the `listen` one from nginx config
+npm i @worldcoin/minikit-js
